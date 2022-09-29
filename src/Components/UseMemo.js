@@ -5,7 +5,7 @@ const UseMemo = () => {
 
     const memoHook = useMemo(function countMemo(){
         return counter+5;
-    })
+    },[counter])
 
   return (
     <div>
