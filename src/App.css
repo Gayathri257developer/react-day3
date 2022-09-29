@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+
+}
+button{
+    background-color: cadetblue;
+    padding: 8px 18px;
+    border-radius: 8px;
+    font-weight: 600;
+}
+h1{
+    text-align: center;
+}
